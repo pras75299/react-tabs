@@ -1,3 +1,3 @@
-#### IN ACTION
+#### React Tabs
 
-[Portfolio](https://gatsby-strapi-portfolio-project.netlify.app/)
+[Data API](https://course-api.com/react-tabs-project)
